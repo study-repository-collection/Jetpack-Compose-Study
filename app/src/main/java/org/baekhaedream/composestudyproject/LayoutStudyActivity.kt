@@ -32,6 +32,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
+import androidx.constraintlayout.compose.ConstraintLayout
 import coil.compose.rememberImagePainter
 import kotlinx.coroutines.launch
 import org.baekhaedream.composestudyproject.ui.theme.ComposeStudyProjectTheme
@@ -188,3 +189,4 @@ fun MyOwnRowPreview() {
         }
     }
 }
+
